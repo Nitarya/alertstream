@@ -1,4 +1,4 @@
-# Notification Feed
+# AlertStream
 
 A full-stack notification feed app: a React + Vite + Tailwind CSS frontend that lists notifications served by an Express API, with unread filtering and mark-as-read support.
 
